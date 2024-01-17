@@ -1,0 +1,14 @@
+# Supermarket Product Shelving Simulation Configuration File
+
+# Product Settings
+# Format: product_id, shelf_amount, storage_amount
+product_1, 10, 200
+product_2, 10, 150
+product_3, 10, 300
+
+# Shelving Team Settings
+# Format: team_id, manager_name, number_of_employees
+team_1, Manager_A, 4
+team_2, Manager_B, 3
+team_3, Manager_E, 5
+
